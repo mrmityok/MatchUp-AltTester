@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: deaf669808812455b8646fb0b3ad6843, type: 3}
+  m_Name: ResourcedData
+  m_EditorClassIdentifier: 
+  cardSprites:
+  - id: 0
+    sprite:
+      assetGUID: dc733b78836c541c586a45b9fadb49db
+      assetPath: Assets/Resources/Textures/Cards2/card_1.jpg
+  - id: 1
+    sprite:
+      assetGUID: 2caddc6ee40f2474ea8daf73cc359eee
+      assetPath: Assets/Resources/Textures/Cards2/card_2.jpg
+  - id: 2
+    sprite:
+      assetGUID: 816c7731c5e3a457d96f8eb3568b4acc
+      assetPath: Assets/Resources/Textures/Cards2/card_3.jpg
+  - id: 3
+    sprite:
+      assetGUID: 61fe77c83eb48446fae07fe63006a0d5
+      assetPath: Assets/Resources/Textures/Cards2/card_4.jpg
+  - id: 4
+    sprite:
+      assetGUID: a74ab56128c37494e811dec648c7b7c7
+      assetPath: Assets/Resources/Textures/Cards2/card_5.jpg
+  - id: 5
+    sprite:
+      assetGUID: 116e9b9cfcb2540fda778d23de30c52b
+      assetPath: Assets/Resources/Textures/Cards2/card_6.jpg
+  - id: 6
+    sprite:
+      assetGUID: 536e90963449a49a297d5be0ff313b78
+      assetPath: Assets/Resources/Textures/Cards2/card_7.jpg
+  - id: 7
+    sprite:
+      assetGUID: f2179ad4937214a5b870cad3fa28d8b6
+      assetPath: Assets/Resources/Textures/Cards2/card_8.jpg
+  - id: 8
+    sprite:
+      assetGUID: bae2428b5d7f14a0196f4e8df26b68d7
+      assetPath: Assets/Resources/Textures/Cards2/card_9.jpg
+  - id: 9
+    sprite:
+      assetGUID: 37aaf5dfe848c4d3fa8f3abfdbed3402
+      assetPath: Assets/Resources/Textures/Cards2/card_10.jpg
+  - id: 10
+    sprite:
+      assetGUID: dd034be8d860d4ed98a7e9de65534bec
+      assetPath: Assets/Resources/Textures/Cards2/card_11.jpg
+  - id: 11
+    sprite:
+      assetGUID: ea7de5f85f271499abc6f158812cc775
+      assetPath: Assets/Resources/Textures/Cards2/card_12.jpg
+  - id: 12
+    sprite:
+      assetGUID: dbe74cdb1993b4717a45687cd603999f
+      assetPath: Assets/Resources/Textures/Cards2/card_13.jpg
+  - id: 13
+    sprite:
+      assetGUID: 595131ed51b6e4af99e054733cbf4303
+      assetPath: Assets/Resources/Textures/Cards2/card_14.jpg
+  - id: 14
+    sprite:
+      assetGUID: ca74dfabcc7fb4da1947ca9b8955faf1
+      assetPath: Assets/Resources/Textures/Cards2/card_15.jpg
+  - id: 15
+    sprite:
+      assetGUID: a765613ccb2ad4232b7dd4880134205a
+      assetPath: Assets/Resources/Textures/Cards2/card_16.jpg
+  - id: 16
+    sprite:
+      assetGUID: 3fd9ea764007845bf9c74b34e8bd5372
+      assetPath: Assets/Resources/Textures/Cards2/card_17.jpg
+  - id: 17
+    sprite:
+      assetGUID: d1de402ad66aa4a73acf8d44cd835da2
+      assetPath: Assets/Resources/Textures/Cards2/card_18.jpg
