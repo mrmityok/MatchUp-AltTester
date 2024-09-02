@@ -31,6 +31,7 @@ SpriteAtlas:
       m_CrunchedCompression: 1
       m_AllowsAlphaSplitting: 0
       m_Overridden: 0
+      m_IgnorePlatformSupport: 0
       m_AndroidETC2FallbackOverride: 0
       m_ForceMaximumCompressionQuality_BC6H_BC7: 1
     packingSettings:
@@ -40,11 +41,23 @@ SpriteAtlas:
       allowAlphaSplitting: 0
       enableRotation: 0
       enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
     variantMultiplier: 1
     packables:
     - {fileID: 102900000, guid: 0a1cc7ab0fd6f4f1fadd536b6dc435e4, type: 3}
-    totalSpriteSurfaceArea: 536595
     bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 04a97da146a334a13b840b129eb5f212: 21300000
+    - 0eb3b38768b9d43bc99e9f4dd22cbce7: 21300000
+    - 78f52bc83e5294413beccb8284033608: 21300000
+    - 252a33eadf2da4f7f83b59a47eda1bb1: 21300000
+    - 2547fcfa751db4b6092ce8c9f2f4cd70: 21300000
+    - 92d4dc4c6e9d4488e8e8bf3f8eb134c5: 21300000
+    - 4af61e6c01c944a218913245f50dd060: 21300000
+    - 96134b7e360cb4d42b0a70fbcdee26e6: 21300000
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
   - {fileID: 21300000, guid: 04a97da146a334a13b840b129eb5f212, type: 3}
@@ -64,5 +77,6 @@ SpriteAtlas:
   - card_frame
   - card_back
   - green_button
+  m_RenderDataMap: {}
   m_Tag: UIAtlass
   m_IsVariant: 0
